@@ -26,18 +26,6 @@ on *Cognitive Reliability and Human–AI Collaboration in Incident Response.*
 - **Jupyter Lab** — experimentation environment  
 
 ---
-
-### How to Run Locally
-
-```bash
-# 1. Clone repo
-git clone https://github.com/<your-username>/ExplainOps-Explainable-Anomaly-Detection.git
-cd ExplainOps-Explainable-Anomaly-Detection
-
-# 2. Create environment
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-
 # 3. Install dependencies
 pip install -r requirements.txt
 
